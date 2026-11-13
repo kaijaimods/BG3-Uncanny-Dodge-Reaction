@@ -1,0 +1,6 @@
+new entry "UncannyDodge"
+type "PassiveData"
+data "DisplayName" "h488725bbg091fg45d3g861eg92471d21a857;2"
+data "Description" "h834e2af0g618ag44c4gbc44gcde3210f48c0;2"
+data "Icon" "PassiveFeature_UncannyDodge"
+data "Boosts" "UnlockInterrupt(KJ_Interrupt_UncannyDodge)"
